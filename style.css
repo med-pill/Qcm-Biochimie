@@ -1,0 +1,38 @@
+body{
+    background: #B0B8B4FF;
+}
+.container
+{
+    width:90%;margin:auto; padding-top:15px; overflow:hidden
+}
+.title
+{
+    text-align:center; color:#184A45FF; font-family: Arial, Helvetica, sans-serif; cursor:none; font-weight: bold;padding-bottom:20px
+}
+.button
+{
+    width: 33%; overflow:hidden; float:right; text-align:center ; padding: 40px 0px 40px 2px
+}
+.dedicace
+{
+    overflow:hidden; float: none; width: 100%; text-align: center; color:#184A45FF; font-family: Arial, Helvetica, sans-serif; font-weight: bold;
+}
+a
+{
+    text-decoration: none;color: #184A45FF
+}
+a:hover
+{
+    text-decoration: none;color: whitesmoke
+}
+button
+{
+    width:200px;
+    height:60px;
+    overflow:hidden;
+    background:#B0B8B4FF;
+    color:#184A45FF;
+    text-transform: uppercase;
+    border: 2px solid#184A45FF;
+    font-size: 1.4rem;
+}
